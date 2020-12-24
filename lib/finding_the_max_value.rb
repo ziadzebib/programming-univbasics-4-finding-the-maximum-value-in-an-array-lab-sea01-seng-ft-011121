@@ -9,3 +9,9 @@ def find_max_value(array)
   end
     max_value
 end
+
+
+[1, 2, 1, 5]
+
+array length = 4
+
